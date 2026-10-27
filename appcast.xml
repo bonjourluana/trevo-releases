@@ -6,6 +6,16 @@
         <description>Atualizações do Trevo para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>1.0.28</title>
+            <pubDate>Tue, 27 Oct 2026 15:34:00 -0300</pubDate>
+            <link>https://github.com/bonjourluana/trevo-releases/releases</link>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/bonjourluana/trevo-releases/releases/download/v1.0.28/Trevo-1.0.28-update.zip" length="8609188" type="application/octet-stream" sparkle:edSignature="x+IkTB90FXeHnpc2gCFu5aH4K8GEUDmoLUS9Q1lbzc25ldtQe99uYYkh9/NXPBlMwIEWV7hnBx+Wnq87yPNwDA=="/>
+        </item>
+        <item>
             <title>1.0.27</title>
             <pubDate>Tue, 27 Oct 2026 14:28:45 -0300</pubDate>
             <link>https://github.com/bonjourluana/trevo-releases/releases</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/bonjourluana/trevo-releases/releases/download/v1.0.26/Trevo-1.0.26-update.zip" length="8605356" type="application/octet-stream" sparkle:edSignature="Lbo5PpPe8/ILlG/k7rFNGRQW26RlEcaw1EcvcYqCS79dfHAmdvA4mbqVNT/91/9v+QpxP/xhPrBKfESJ6HMCDg=="/>
-        </item>
-        <item>
-            <title>1.0.25</title>
-            <pubDate>Mon, 26 Oct 2026 11:40:59 -0300</pubDate>
-            <link>https://github.com/bonjourluana/trevo-releases/releases</link>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/trevo-releases/releases/download/v1.0.25/Trevo-1.0.25-update.zip" length="8605374" type="application/octet-stream" sparkle:edSignature="Dw4NG4oF+cZ97stb4mSkHqeAsR4asaftYrXFrjr0wyUmbMH1gxlvW8hGwZVnloPMdXL1/nrpUprnGkhR9LKXAg=="/>
         </item>
     </channel>
 </rss>
